@@ -111,7 +111,7 @@ function prepopulatedRichText() {
   }
 }
 
-function App(): JSX.Element {
+function Playground(): JSX.Element {
   const {
     settings: { isCollab, emptyEditor, measureTypingPerf },
   } = useSettings();
@@ -159,7 +159,7 @@ function App(): JSX.Element {
 export default function PlaygroundApp(): JSX.Element {
   return (
     <SettingsContext>
-      <App />
+      <Playground />
       <a
         href="https://github.com/facebook/lexical/tree/main/packages/lexical-playground"
         className="github-corner"

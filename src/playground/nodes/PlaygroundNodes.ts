@@ -36,7 +36,7 @@ import { PollNode } from './PollNode';
 import { StickyNode } from './StickyNode';
 import { TweetNode } from './TweetNode';
 import { YouTubeNode } from './YouTubeNode';
-import { EquationNode } from '@/nodes/EquationNode';
+import { EquationNode } from './EquationNode';
 
 const PlaygroundNodes: Array<Klass<LexicalNode>> = [
   HeadingNode,
