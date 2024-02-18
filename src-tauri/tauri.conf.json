@@ -1,7 +1,7 @@
 {
   "productName": "himark",
   "version": "0.0.0",
-  "identifier": "com.tauri.dev",
+  "identifier": "com.himark.dev",
   "build": {
     "beforeDevCommand": "bun run dev",
     "devUrl": "http://localhost:1420",
@@ -14,8 +14,8 @@
         "fullscreen": false,
         "resizable": true,
         "title": "Himark",
-        "width": 800,
-        "height": 600
+        "width": 1920,
+        "height": 1080
       }
     ],
     "security": {

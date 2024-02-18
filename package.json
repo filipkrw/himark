@@ -10,16 +10,25 @@
     "tauri": "tauri"
   },
   "dependencies": {
+    "@excalidraw/excalidraw": "^0.17.3",
+    "@lexical/file": "^0.13.1",
+    "@lexical/react": "^0.13.1",
     "@radix-ui/react-slot": "^1.0.2",
     "@tauri-apps/api": "^2.0.0-beta.0",
     "@tauri-apps/plugin-shell": "^2.0.0-beta.0",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.0",
+    "katex": "^0.16.9",
+    "lexical": "^0.13.1",
+    "lodash": "^4.17.21",
+    "lodash-es": "^4.17.21",
     "lucide-react": "^0.331.0",
+    "prettier": "^3.2.5",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "tailwind-merge": "^2.2.1",
-    "tailwindcss-animate": "^1.0.7"
+    "tailwindcss-animate": "^1.0.7",
+    "y-websocket": "^1.5.3"
   },
   "devDependencies": {
     "@tauri-apps/cli": "^2.0.0-beta.0",
