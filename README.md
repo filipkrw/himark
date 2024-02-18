@@ -4,7 +4,7 @@ Himark is to close that gap.
 
 ## Roadmap
 
-- [ ] Create a decent editor
+- [ ] Create a decent editor ([branch](https://github.com/filipkrw/himark/tree/markdown-editor))
 - [ ] Support working with local
 - [ ] Distribute as a standalone app
 - [ ] Get people to test it
