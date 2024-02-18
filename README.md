@@ -1,7 +1,16 @@
-# Tauri + React + Typescript
+Documentation static-site generators like Docusaurus are great, until a non-dev wants to edit the docs. There isn't a no-brainer, not janky, free and flexbile Markdown editor that is friendly to both devs and non-devs.
 
-This template should help get you started developing with Tauri, React and Typescript in Vite.
+Himark is to close that gap.
 
-## Recommended IDE Setup
+## Roadmap
 
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+- [ ] Create a decent editor
+- [ ] Support working with local
+- [ ] Distribute as a standalone app
+- [ ] Get people to test it
+
+### Next
+
+- [ ] Figure out how to work with a Git locally in a browser
+- [ ] Create a simple workflow on top of Git
+- [ ] Get people to test it
